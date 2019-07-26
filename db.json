@@ -1,22 +1,22 @@
 {
-  "login": 
-    {
+  "login": {
       "code": 200,
       "message": "hello",
       "info" : {
         "user" : "user1",
         "pass" : "pass1"
-      },
-      
-    }
-  ,
+      },      
+  },
+  
   "posts": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
+  
   "profile": {
     "name": "typicode"
   }
+  
 }
