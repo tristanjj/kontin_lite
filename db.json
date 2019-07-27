@@ -1,4 +1,5 @@
 {
+  
   "login": {
       "code": 200,
       "message": "hello",
@@ -6,17 +7,6 @@
         "user" : "user1",
         "pass" : "pass1"
       }      
-  },
-  
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  
-  "profile": {
-    "name": "typicode"
   }
   
 }
