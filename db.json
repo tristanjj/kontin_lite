@@ -11,7 +11,7 @@
   
   "sample1" :{
       "name" : "user1",
-      "emaill" : "user1@gmail.com"
+      "email" : "user1@gmail.com"
   }
   
 }
